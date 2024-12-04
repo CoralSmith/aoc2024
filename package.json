@@ -1,0 +1,11 @@
+{
+  "name": "aoc",
+  "version": "1.0.0",
+  "description": "Advent of code fun times",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Coral",
+  "license": "MIT"
+}
